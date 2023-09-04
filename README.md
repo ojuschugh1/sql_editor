@@ -76,8 +76,6 @@ This project is a web application for executing and managing SQL queries. It pro
 
 Lighhouse Report:
 
-<img width="1093" alt="Lighthouse Screenshot" src="https://github.com/anmolkapil/atlan-sql-project/assets/71038519/131be9ff-c33a-443b-9610-e4b2ac49aa3e">
-<img width="1093" alt="Lighthouse Screenshot" src="https://github.com/anmolkapil/atlan-sql-project/assets/71038519/d4658a69-70d8-4152-8f38-72d7c3b4f0c1">
 
 ## Optimizations for Performance
 
