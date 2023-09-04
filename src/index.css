@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cm-scroller,
+.cm-gutters {
+  border: none !important;
+  background-color: transparent !important;
+}
+
+.cm-focused {
+  outline: none !important;
+}
+
+.dark .gutter {
+  background-color: blue !important;
+}
+
+.gutter {
+  background-color: #eee;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.gutter.gutter-vertical {
+  background-image: none;
+  cursor: row-resize;
+}
+
+.Sidebar {
+  text-align: left;
+}
+
+h2 {
+  text-align: left;
+}
