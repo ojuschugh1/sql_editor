@@ -75,6 +75,7 @@ This project is a web application for executing and managing SQL queries. It pro
 ## Page Load Time Measurement
 
 Lighhouse Report:
+<img width="1093" alt="Lighthouse Screenshot" src="https://github.com/ojuschugh1/sql_editor/blob/main/lighthouse.png">
 
 
 ## Optimizations for Performance
